@@ -48,4 +48,4 @@ Portuguese (native) · Spanish (proficient) · English (upper intermediate)
 
 ---
 
-Open to fullstack and AI-engineering opportunities. The best way to reach me is through [LinkedIn](https://linkedin.com/in/fernando-picardi) or my [portfolio](https://fernandopicardi.com).
+Open to fullstack and AI-engineering opportunities. The best way to reach me is through [email](mailto:hi@fernandopicardi.com), [LinkedIn](https://linkedin.com/in/fernando-picardi) or my [portfolio](https://fernandopicardi.com).
